@@ -2,5 +2,5 @@
 echo "-------------------------------"
 cd /opt/
 ls
-cd gopi
+$(cd) gopi
 ll

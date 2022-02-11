@@ -1,6 +1,4 @@
 #!/bin/bash
 echo "-------------------------------"
-cd /opt/
-ls
-$(cd) gopi
+cd /var/lib/
 ll
